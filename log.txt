@@ -1,0 +1,4 @@
+TestLog: 90
+Log file: /storage/OneDrive-ualg/Works/Aulas/00-Disciplinas/01-Novas/Poo/XCode/pratica/2024-25/age/log.txt
+TestLog: 90
+Log file: /storage/OneDrive-ualg/Works/Aulas/00-Disciplinas/01-Novas/Poo/XCode/pratica/2024-25/age/log.txt
